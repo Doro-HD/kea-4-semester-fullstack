@@ -50,8 +50,7 @@ diet.pop()
 // Exercise 6 - Copy array
 
 // You really like your daily diet from last exercise. Copy it to a new array called dinnerTray so you can give it to a friend.  
-const dinnerTray = diet
-
+const dinnerTray = [...diet]
 // --------------------------------------
 // Exercise 7 - For loop
 
