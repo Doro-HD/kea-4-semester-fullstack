@@ -1,0 +1,16 @@
+{
+  "tanks": [
+    {
+      "name": "Leopard",
+      "nationality": "Germany"
+    },
+    {
+      "name": "Tiger",
+      "nationality": "Germany"
+    },
+    {
+      "name": "M1 Abrams",
+      "nationality": "M1"
+    }
+  ]
+}
